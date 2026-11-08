@@ -20,21 +20,6 @@
 - 🌐 Check out my projects on my [Portfolio](https://aliriodevportafolio.vercel.app/#inicio)
 ##
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aliri0oangel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliri0oangel&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliri0oangel&theme=tokyonight&no-frame=true&row=1&column=4" />
-</p>
-
----
-
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝒟 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 
